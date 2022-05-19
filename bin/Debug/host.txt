@@ -1,0 +1,1 @@
+Server=localhost;UserId=root;Password=07598453;Database=agendadb
